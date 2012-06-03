@@ -1,0 +1,13 @@
+.slider-box{
+  width:100%;
+  color: #100;
+  background-color: #f9f9f9;
+  border: 1px solid silver;
+  margin: 0 auto 1.5em auto;
+  padding: 10px;
+  clear: left;
+}
+
+.clearfix{
+	clear:both;
+}

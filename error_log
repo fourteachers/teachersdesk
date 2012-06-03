@@ -1,0 +1,74 @@
+[03-Jun-2012 13:09:03] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/subjects?grade=Select) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:16:08] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=Select&amp;subject=null&amp;search=ad grade 6 math) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD_REQUEST
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:16:10] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=Select&amp;subject=null&amp;search=ad grade 6 math) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD_REQUEST
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:16:20] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/subjects?grade=Select) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:17:07] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=10&amp;subject=15&amp;search=9 a) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD_REQUEST
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:17:18] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=10&amp;subject=15&amp;search=9 A) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD_REQUEST
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:17:19] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=10&amp;subject=15&amp;search=9 A) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD_REQUEST
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:17:41] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=10&amp;subject=15&amp;search=5 c) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD_REQUEST
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:19:57] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=10&amp;subject=8&amp;search=Neolithic revolution) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD_REQUEST
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:19:58] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=10&amp;subject=8&amp;search=Neolithic revolution) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD_REQUEST
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:20:13] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=10&amp;subject=15&amp;search=5(B)) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error 
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:20:15] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=10&amp;subject=15&amp;search=5(B)) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error 
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:20:19] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=10&amp;subject=15&amp;search=5 (B)) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD_REQUEST
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:20:20] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=10&amp;subject=15&amp;search=5 (B)) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 400 BAD_REQUEST
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:24:17] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=7&amp;subject=17) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:25:12] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=Select&amp;subject=null) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:25:25] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=7&amp;subject=17&amp;search=ad) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:25:34] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=7&amp;subject=17&amp;search=add) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:26:15] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=7&amp;subject=17&amp;search=add) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:26:56] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=7&amp;subject=17&amp;search=add) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:29:29] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=10&amp;subject=16) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:29:38] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=10&amp;subject=16&amp;search=essay) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:29:40] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=10&amp;subject=16&amp;search=essay) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:29:47] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=10&amp;subject=16&amp;search=essay) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:29:50] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=10&amp;subject=15&amp;search=essay) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:29:54] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=10&amp;subject=15&amp;search=essay) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:29:57] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=10&amp;subject=15&amp;search=read) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:30:00] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=10&amp;subject=15&amp;search=read) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:39:43] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=Select&amp;subject=null) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 27
+[03-Jun-2012 13:49:59] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/subjects?grade=Select) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 40
+[03-Jun-2012 13:50:00] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=Select&amp;subject=null&amp;search=investigation) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 40
+[03-Jun-2012 13:51:56] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/subjects?grade=Select) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 40
+[03-Jun-2012 13:51:59] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=Select&amp;subject=null) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 40
+[03-Jun-2012 13:52:03] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=Select&amp;subject=null) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 40
+[03-Jun-2012 13:52:11] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=Select&amp;subject=null) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 40
+[03-Jun-2012 13:52:15] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=Select&amp;subject=null) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 40
+[03-Jun-2012 13:53:32] PHP Warning:  file_get_contents(http://fourteachers-thedesk.herokuapp.com/teks?grade=Select&amp;subject=null) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found 
+ in /home/rantron/public_html/services.php on line 40

@@ -1,0 +1,1 @@
+[02-Jun-2012 17:14:42] PHP Fatal error:  Call to undefined function  bp_is_active() in /home/pbezant/public_html/fourteachers/wp-content/plugins/buddypress/bp-core/admin/bp-core-admin.php on line 45

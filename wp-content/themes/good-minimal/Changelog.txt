@@ -1,0 +1,164 @@
+*** Changelog ***
+
+
+Version 1.9  (released 14 May 2012)
+	* Fixed the duplicate image on lightbox gallery
+	* Fixed the googlemap shortcode.
+	* Fixed the button resize problem on iPhones.
+	* Fixed the prettyPhoto loading settings
+
+	Was made modifications in files:
+		* header.php
+		* footer.php
+		* portfolio-one.php
+		* portfolio-two.php
+		* portfolio-three.php
+		* portfolio-four.php
+		* portfolio-three-categorized.php
+		* functions/shortcodes.php
+
+
+Version 1.8  (released 04 March 2012)
+	* Added googlemap shortcode
+	* Added simpleslider shortcode
+	* Added lightbox (prettyPhoto) shortcode
+	* Added reCAPTCHA in contact page template
+	* Added Categorized (filterable) Portfolio template
+	* Was changed timthumb script with WordPress thumbnails
+	* Fixed pagination for portfolios filtered by categories
+
+
+	Was made modifications in files:
+		* was modified almost all files
+
+
+
+Version 1.7  (released 20 February 2012)
+	* Added gallery shortcode
+	* Added slider shortcode
+	* Added big and small button shortcodes
+	* Added contact form shortcode
+	* Added video to show in slider
+	* Added RSS link in social links
+	* Fixed slider captions for iPad, iPhone viewing
+
+
+	Was made modifications in files:
+		* index.php
+		* header.php
+		* functions.php
+		* portfolio-one.php
+		* portfolio-two.php
+		* portfolio-three.php
+		* portfolio-four.php
+		* blog.php
+		* blog-full-width.php
+		* single-portfolio.php
+		* single.php
+		* contact.php
+		* archive.php
+		* search.php
+		* /flexslider/flexslider.css
+		* /functions/options/slider-options.php
+
+
+
+Version 1.6  (released 24 January 2012)
+	* Added option to add slider descrition.
+	* Added blog full width template.
+
+	Was made modifications in files:
+		* style.css
+		* index.php
+		* blog-full-width.php - new file
+		* header.php
+		* /functions/options/slider-options.php
+
+
+
+Version 1.5  (released 23 December 2011)
+	* Compatibility with WordPress 3.3
+	* Added slide URL option for slider
+	* Unlimited blog pages (by categories)
+
+	Was made modifications in files:
+		* style.css
+		* blog.php
+		* functions.php
+		* index.php
+		* header.php
+		* /functions/options/slider-options.php
+
+
+
+Version 1.4  (released 26 Octomber 2011)
+	* Fixed slider bug
+	* Added demo site XML files
+
+	Was made modifications in files:
+		* header.php
+
+
+
+Version 1.3  (released 18 Octomber 2011)
+	* Fixed menu on hover jump issue
+	* Fixed slider images to be responsive
+	* Fixed portfolio details page images to be responsive
+	* Added Play video on portfolio click on hompegae
+	* Added feature to change fonts in admin panel for headers, menu and content
+	* Changed Nivo slider with Flex slider
+	* Added customising options in admin panel for Flex slider
+	* Was included xml files for posts, pages, slider and portfolio
+
+	Was made modifications in files:
+		* header.php
+		* index.php
+		* single-portfolio.php
+		* portfolio-two.php
+		* footer.php
+		* functions.php
+		* style.css
+		* css/light-style.css
+		* css/dark-style.css
+
+
+
+Version 1.2  (released 17 September 2011)
+	* New feature - Unlimited Portfolio pages
+	* Fixed the timthumb bug
+	* Fixed unlimited sidebars
+
+	Was made modifications in files:
+		In almost all files
+
+
+Version 1.1  (released 06 August 2011)
+
+	* Added icons in header for Youtube, LinkedIn, Tumblr and Google+, 
+	* Added feature to customize Nivo slider options (like effect, pause time, speed, others.)
+	* Added feature to add link to favicon.ico from admin panel.
+	* Added feature to popup on portfolio not only images but: Another image, Flash content, Youtube content, Vimeo content, QuickTime movies, External site
+	* Fixed unopened tag in file header.php
+	* Fixed css file with class with missed image.
+	* Fixed unlimited sidebars.
+
+
+	Was made modifications in files:
+       		* style.css
+		* header.php
+		* functions.php
+		* portfolio-one.php
+		* portfolio-two.php
+		* portfolio-three.php
+		* portfolio-four.php
+		* blog.php
+		* index.php
+		* css/light-style.css
+		* css/black-style.css
+	
+	New images in folders:
+		* css/light-images
+		* css/dark-images
+
+
+Version 1.0  (released 29 July 2011)
